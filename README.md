@@ -26,7 +26,7 @@ Add  `SKLite` to your Swift package dependencies.
 
 1. Open your Xcode project.
 2. Select **File** -> **Swift Packages** -> **Add Package Dependency**.
-3. In the popup window, enter the EmojiList GitHub repository URL: `https://github.com/wuyu2015/SKLiteSwift.git`.
+3. In the popup window, enter the `SKLite` GitHub repository URL: `https://github.com/wuyu2015/SKLiteSwift.git`.
 4. Choose the desired version (e.g., 1.0.0) and complete the installation.
 
 Now, you can use  `SKLite` in your project.
